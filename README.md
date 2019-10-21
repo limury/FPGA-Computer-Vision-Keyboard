@@ -8,10 +8,10 @@ This program, when connected to an FPGA (implementation not included in repo) al
 ## Restrictions:
 - Each row of the keyboard must be alligned and delimited above and below by a straight line.
 - The keyboard must be placed approximately perpendicular to the input camera (above 30° and vertical and horizontal lines will be confused, above 10° and functionality will be reduced.
-
-
+- Each finger that you want to type with must have some green component or marked with a green marker or sticker. (To be fixed in the future)
+- The keyboard MUST be contained within 4 red marks at each corner. These must be quite large for the camera to see them and distinctly tell they are red. (See img folder for reference)
 
 # TODO
 - fixKeyboard
 - Implement secondary keys
-- Make keyboard function without blue marks on fingers
+- Make keyboard function without green marks on fingers
